@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/taxevasion/static/css/main.3050d1c9.css",
-    "main.js": "/taxevasion/static/js/main.ad267d0b.js",
+    "main.css": "/taxevasion/static/css/main.664ea6dc.css",
+    "main.js": "/taxevasion/static/js/main.afcad114.js",
     "static/media/HitKit_LD50.mp3": "/taxevasion/static/media/HitKit_LD50.138957a3f000373e79a6.mp3",
     "static/media/worldmap1.png": "/taxevasion/static/media/worldmap1.7c5f0473f033ffa42e69.png",
     "static/media/upheaval.ttf": "/taxevasion/static/media/upheaval.e3d365ba5fa6a65e9caf.ttf",
     "index.html": "/taxevasion/index.html",
-    "main.3050d1c9.css.map": "/taxevasion/static/css/main.3050d1c9.css.map",
-    "main.ad267d0b.js.map": "/taxevasion/static/js/main.ad267d0b.js.map"
+    "main.664ea6dc.css.map": "/taxevasion/static/css/main.664ea6dc.css.map",
+    "main.afcad114.js.map": "/taxevasion/static/js/main.afcad114.js.map"
   },
   "entrypoints": [
-    "static/css/main.3050d1c9.css",
-    "static/js/main.ad267d0b.js"
+    "static/css/main.664ea6dc.css",
+    "static/js/main.afcad114.js"
   ]
 }
